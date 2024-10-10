@@ -1,9 +1,6 @@
 class Routes {
-  static const String onBoardingScreen = '/';
-  static const String registerScreen = '/register_screen';
-  static const String loginScreen = '/login_screen';
-  static const String forgetPasswordScreen = '/ForgetPasswordScreen';
-  static const String activateUserScreen = '/ActivateUserScreen';
-  static const String otpVerificationScreen = '/OtpVerificationScreen';
-  static const String resetPasswordScreen = '/ResetPasswordScreen';
+  static const String uploadScreen = '/UploadScreen';
+  static const String captureScreen = '/CaptureScreen';
+  static const String historyScreen = '/HistoryScreen';
+  static const String bottomNavBar = '/BottomNavBar';
 }
