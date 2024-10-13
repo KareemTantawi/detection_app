@@ -47,10 +47,10 @@ class _BottomNavBarScreenState extends State<BottomNavBarScreen> {
               boxShadow: [
                 BoxShadow(
                   // color: AppColors.primaryColor.withOpacity(0.4),
-                  color: Colors.orange.withOpacity(0.18),
+                  color: Colors.pink.withOpacity(0.2),
                   spreadRadius: 40,
                   blurRadius: 30,
-                  offset: const Offset(4, 8),
+                  offset: const Offset(4, 12),
                 ),
               ]
               // border: Border.all(
